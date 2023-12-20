@@ -1,0 +1,6 @@
+x = int(input("Enter the Principal :  "))
+y = int(input("Enter the Time :  "))
+z = int(input("Enter the Rate :  "))
+
+si = (x*y*z)/100
+print("The Simple Interest is :-  ", si)
